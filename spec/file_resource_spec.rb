@@ -1,5 +1,3 @@
-require 'spec_helper'
-
 describe RackDAV::FileResource do
 
   describe "#get" do
