@@ -1,5 +1,3 @@
-require 'spec_helper'
-
 describe RackDAV::Handler do
 
   describe "#initialize" do
